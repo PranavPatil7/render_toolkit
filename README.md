@@ -132,5 +132,3 @@ bash scripts/batch_blender.sh
 - remove `--start_rot_x 75` or set to other appropriate rotation angles for different meshes
 - update `data_path` when necessary
 
-
-This project is licensed under the MIT License.
